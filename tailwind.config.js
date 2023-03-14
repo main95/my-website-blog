@@ -10,6 +10,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    // fontFamily: {
+    //   'mont': ['"Montserrat"'],
+    //   'play': ['"Playfair Display"'],
+    // },
   },
   plugins: [],
 }
